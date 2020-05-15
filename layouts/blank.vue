@@ -1,13 +1,5 @@
 <template>
-    $END$
+  <div>
+    <nuxt />
+  </div>
 </template>
-
-<script>
-  export default {
-    name: 'blanj'
-  }
-</script>
-
-<style scoped>
-
-</style>

@@ -1,11 +1,11 @@
 <template>
-    $END$
+  <div>cart</div>
 </template>
 
 <script>
-  export default {
-    name: 'cart'
-  }
+export default {
+  name: 'Cart'
+}
 </script>
 
 <style scoped>

@@ -1,11 +1,12 @@
 <template>
-    $END$
+  <div>login</div>
 </template>
 
 <script>
-  export default {
-    name: 'login'
-  }
+export default {
+  name: 'Login',
+  layout: 'blank'
+}
 </script>
 
 <style scoped>
